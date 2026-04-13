@@ -8,10 +8,6 @@
 </h3>
 
 
-<p align="center">
-  <a href="https://github.com/Abdalrahman-Alhamod/" align="center" ><img align="center"  alt="" src="https://visitor-badge.laobi.icu/badge?page_id=Abdalrahman-Alhamod.Abdalrahman-Alhamod"></a>
-</p>
-
 ---
 
 - 👨‍💻 Software Engineer, I'm constantly learning and exploring new technologies to improve my skills.
